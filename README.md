@@ -29,4 +29,4 @@
 - Melakukan Save setelah Edit
 <p align="justify">Jika melakukan save setelah edit maka konten akan berubah secara langsung, juga mengembalikan tombol Edit juga menghilangkan tombol Cancel dan Save.</p>
 
-<img src="/spoiler/save.png">
+<img src="/spoiler/Save.png">
